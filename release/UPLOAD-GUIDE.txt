@@ -1,0 +1,32 @@
+﻿UPLOAD GUIDE — ORIGINAL GAME, UNCHANGED
+
+Files
+- snake-itch.zip: upload this as the playable HTML game.
+- cover-630x500.png: upload as the project's cover image.
+- cover-master.png: full-resolution cover artwork; keep as the source asset.
+- ITCH-LISTING.txt: copy-ready title, summary, description, metadata and theme suggestions.
+- COVER-PROMPT.txt: cover generation provenance and exact prompt.
+- SHA256SUMS.txt: SHA-256 checksum of the ZIP.
+
+Upload steps
+1. Create a new project at https://itch.io/game/new.
+2. Set Kind of project to HTML and upload snake-itch.zip.
+3. Mark the uploaded ZIP as playable in the browser.
+4. Choose Embed in page. Start with a viewport of 960 x 820 pixels; preview and adjust if necessary. The existing game has a fixed 600 x 400 playfield and surrounding controls/header.
+5. Enable Click to play. Leave Mobile friendly off. Keep scrollbars enabled if the unchanged layout clips in the preview.
+6. Add cover-630x500.png and paste the listing copy and metadata from ITCH-LISTING.txt. Complete AI disclosure for the generated cover and listing text.
+7. Save as Draft, preview gameplay on the itch.io page, then publish when satisfied.
+
+Verification performed
+- All original public files are included, including the bundled p5.js and Processing libraries.
+- index.html is at the ZIP root, with forward-slash entry paths.
+- Every file in the archive was verified by SHA-256 against its original public file.
+- No repository metadata, Firebase configuration, IDE settings, cover art, or listing documents are inside the game ZIP.
+- No tracked game files differ from their state before release preparation.
+
+Existing build notes for the creator
+This is packaging only, not a repaired build. The source was restored after an earlier attempted update. Source inspection found placeholder speed/level controls and a score that is not cleared by Start; the listing avoids advertising those controls and recommends refresh for a fresh score. Live itch.io playtesting and publishing have not been performed.
+
+Official references
+HTML game packaging and embeds: https://itch.io/docs/creators/html5
+Accurate listing metadata and AI disclosure: https://itch.io/docs/creators/quality-guidelines

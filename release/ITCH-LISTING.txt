@@ -1,0 +1,51 @@
+﻿ITCH.IO LISTING COPY
+
+Title: Snake
+Creator: ParadoX
+Suggested URL slug: snake
+Short description: Eat, grow, and dodge your own tail in a minimalist browser Snake game.
+
+DESCRIPTION (paste into the itch.io description editor)
+
+One more bite. One longer snake.
+
+Snake is a small arcade game by ParadoX. Steer a red snake across a black playfield, collect food, and keep clear of your own growing tail.
+
+Cross an edge to wrap around to the other side. Pick up white food for 1 point, or grab red bonus food for 5. How high can you push your score before you catch yourself?
+
+Features
+- Classic wraparound Snake gameplay
+- Regular and bonus food
+- Simple red, white, and black visuals
+- Play directly in your desktop browser
+
+How to play
+- Click inside the game, then use the arrow keys to move.
+- Collect food to grow and earn points.
+- Avoid your own tail.
+- Use Start to begin another attempt. Refresh the page for a fresh score.
+
+Credits
+Created by ParadoX. Built with JavaScript and p5.js.
+Cover illustration generated with AI assistance.
+
+SUGGESTED METADATA
+Classification: Games
+Kind of project: HTML
+Release status: Prototype (existing build, unchanged)
+Pricing: Free / optional donations
+Genre: Action
+Suggested tags: snake, arcade, singleplayer, 2d, minimalist, score-attack
+Language: English
+Input: Keyboard
+Players: Single-player
+Mobile friendly: Off (keyboard required)
+AI disclosure: Cover image and listing copy were generated with AI assistance. The game source is unchanged.
+
+PAGE THEME
+Background: #101013
+Text: #F4F0E8
+Accent: #FF4053
+Cover: cover-630x500.png
+
+Keep claims to the existing game: no level selection, adjustable speed, pause, saved best score, touch controls, or additional modes are advertised here.
